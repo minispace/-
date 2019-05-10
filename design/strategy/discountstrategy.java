@@ -1,6 +1,6 @@
 package main.java.design.strategy;
 
-public interface discountstrategy {
+public interface Discountstrategy {
     public double getdiscount(double price);
 
 }
